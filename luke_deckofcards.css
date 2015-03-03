@@ -1,0 +1,70 @@
+body {
+  background-color: grey;
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+}
+
+ul {
+  list-style: none;
+  list-style-position: inside;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  background: transparent;
+  border: 2px solid yellow;
+  color: yellow;
+}
+
+button:hover {
+  color: grey;
+  background-color: yellow;
+}
+
+.hearts {
+  color: red;
+  border: 2px solid red;
+  background-color: white;
+  width: 65px;
+  display: inline-block;
+  margin: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.diamonds {
+  color: red;
+  border: 2px solid red;
+  background-color: white;
+  width: 65px;
+  display: inline-block;
+  margin: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.clubs {
+  color: black;
+  border: 2px solid black;
+  background-color: white;
+  width: 65px;
+  display: inline-block;
+  margin: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.spades {
+  color: black;
+  border: 2px solid black;
+  background-color: white;
+  width: 65px;
+  display: inline-block;
+  margin: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
